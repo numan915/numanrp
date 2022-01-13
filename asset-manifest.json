@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/numan915/numanrp/static/css/main.073c9b0a.css",
+    "main.js": "/numan915/numanrp/static/js/main.3c0271a2.js",
+    "static/js/787.db457d2c.chunk.js": "/numan915/numanrp/static/js/787.db457d2c.chunk.js",
+    "static/media/logo.svg": "/numan915/numanrp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/numan915/numanrp/index.html",
+    "main.073c9b0a.css.map": "/numan915/numanrp/static/css/main.073c9b0a.css.map",
+    "main.3c0271a2.js.map": "/numan915/numanrp/static/js/main.3c0271a2.js.map",
+    "787.db457d2c.chunk.js.map": "/numan915/numanrp/static/js/787.db457d2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3c0271a2.js"
+  ]
+}
